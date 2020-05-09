@@ -12,7 +12,7 @@ end
 
 def add_element_to_end_of_array(array, element)
   
-  bands = ["AFI", "Thirty Seconds to Mars", "The Killers", "Nirvana"]
+  #bands = ["AFI", "Thirty Seconds to Mars", "The Killers", "Nirvana"]
   
   bands << "arrays!"
   
