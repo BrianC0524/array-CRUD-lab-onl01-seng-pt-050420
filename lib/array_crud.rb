@@ -1,10 +1,12 @@
 def create_an_empty_array
   
-  empty_array = []
+  []
   
 end
 
 def create_an_array
+  
+  bands = ["AFI", "Thirty Seconds to Mars", "The Killers", "Nirvana"]
   
 end
 
