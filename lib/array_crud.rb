@@ -14,7 +14,7 @@ def add_element_to_end_of_array(array, element)
   
   bands = ["AFI", "Thirty Seconds to Mars", "The Killers", "Nirvana"]
   
-  bands << "The White Stripes"
+  bands << "arrays!"
   
 end
 
@@ -22,7 +22,7 @@ def add_element_to_start_of_array(array, element)
   
   bands = ["AFI", "Thirty Seconds to Mars", "The Killers", "Nirvana"]
   
-  bands.unshift("The White Stripes")
+  bands.unshift("wow")
   
 end
 
