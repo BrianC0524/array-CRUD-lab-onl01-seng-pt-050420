@@ -36,7 +36,7 @@ end
 
 def remove_element_from_start_of_array(array)
   
-  bands = ["AFI", "Thirty Seconds to Mars", "The Killers", "Nirvana"]
+  bands = ["wow", "AFI", "Thirty Seconds to Mars", "The Killers", "Nirvana"]
   
   bands.shift
   
